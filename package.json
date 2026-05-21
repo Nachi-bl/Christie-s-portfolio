@@ -1,0 +1,11 @@
+{
+  "name": "christy-portfolio-root",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix \"./Christy-portfolio\" run dev -- --host",
+    "build": "npm --prefix \"./Christy-portfolio\" run build",
+    "preview": "npm --prefix \"./Christy-portfolio\" run preview -- --host",
+    "install:app": "npm --prefix \"./Christy-portfolio\" install"
+  }
+}
+
