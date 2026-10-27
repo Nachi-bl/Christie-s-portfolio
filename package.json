@@ -1,11 +1,15 @@
 {
-  "name": "christy-portfolio-root",
+  "name": "christy-portfolio",
   "private": true,
+  "version": "0.0.0",
+  "type": "module",
   "scripts": {
-    "dev": "npm --prefix \"./Christy-portfolio\" run dev -- --host",
-    "build": "npm --prefix \"./Christy-portfolio\" run build",
-    "preview": "npm --prefix \"./Christy-portfolio\" run preview -- --host",
-    "install:app": "npm --prefix \"./Christy-portfolio\" install"
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "~6.0.2",
+    "vite": "^8.0.10"
   }
 }
-

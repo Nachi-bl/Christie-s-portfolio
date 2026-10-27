@@ -282,18 +282,32 @@ app.innerHTML = `
           </button>
           <div class="portfolio__carousel" id="portfolioCarousel">
             <div class="portfolio__track" id="portfolioTrack">
-            <a class="portfolio__card" href="https://popswit.com" target="_blank" rel="noopener noreferrer">
-              <img class="portfolio__img" src="/projects/popswit.png" alt="PopSwit - Spring Rolls & Popcorn" />
+            <a class="portfolio__card" href="https://www.nexorasms.com/" target="_blank" rel="noopener noreferrer">
+              <img class="portfolio__img" src="/projects/nexora.jpeg" alt="Nexora - School Management System" />
               <div class="portfolio__overlay">
-                <span class="portfolio__cardTitle">PopSwit</span>
-                <span class="tag tag--light">Landing Page</span>
+                <span class="portfolio__cardTitle">Nexora</span>
+                <span class="tag tag--light">Web App</span>
               </div>
             </a>
-            <a class="portfolio__card" href="https://afresh.center" target="_blank" rel="noopener noreferrer">
-              <img class="portfolio__img" src="/projects/afresh.png" alt="AfRESH - Innovation Hub" />
+            <a class="portfolio__card" href="https://boboreality.com/" target="_blank" rel="noopener noreferrer">
+              <img class="portfolio__img" src="/projects/bobo.png" alt="BOBO - Battle of Baddies On" />
               <div class="portfolio__overlay">
-                <span class="portfolio__cardTitle">AfRESH</span>
-                <span class="tag tag--light">Web Design</span>
+                <span class="portfolio__cardTitle">BOBO</span>
+                <span class="tag tag--light">Reality Show</span>
+              </div>
+            </a>
+            <a class="portfolio__card" href="https://josride.com/" target="_blank" rel="noopener noreferrer">
+              <img class="portfolio__img" src="/projects/josride.png" alt="JosRide - Ride-hailing Platform" />
+              <div class="portfolio__overlay">
+                <span class="portfolio__cardTitle">JosRide</span>
+                <span class="tag tag--light">Web App</span>
+              </div>
+            </a>
+            <a class="portfolio__card" href="https://joscity.com" target="_blank" rel="noopener noreferrer">
+              <img class="portfolio__img" src="/projects/joscity.png" alt="JosCity - Events & Traditions" />
+              <div class="portfolio__overlay">
+                <span class="portfolio__cardTitle">JosCity</span>
+                <span class="tag tag--light">Web App</span>
               </div>
             </a>
             <a class="portfolio__card" href="https://gatewav.com" target="_blank" rel="noopener noreferrer">
@@ -303,6 +317,13 @@ app.innerHTML = `
                 <span class="tag tag--light">Web App</span>
               </div>
             </a>
+            <a class="portfolio__card" href="https://afresh.center" target="_blank" rel="noopener noreferrer">
+              <img class="portfolio__img" src="/projects/afresh.png" alt="AfRESH - Innovation Hub" />
+              <div class="portfolio__overlay">
+                <span class="portfolio__cardTitle">AfRESH</span>
+                <span class="tag tag--light">Web Design</span>
+              </div>
+            </a>
             <a class="portfolio__card" href="https://afresh.academy" target="_blank" rel="noopener noreferrer">
               <img class="portfolio__img" src="/projects/afresh-academy-card-2026.png" alt="AfRESH Academy - Training Platform" />
               <div class="portfolio__overlay">
@@ -310,17 +331,17 @@ app.innerHTML = `
                 <span class="tag tag--light">Web App</span>
               </div>
             </a>
+            <a class="portfolio__card" href="https://popswit.com" target="_blank" rel="noopener noreferrer">
+              <img class="portfolio__img" src="/projects/popswit.png" alt="PopSwit - Spring Rolls & Popcorn" />
+              <div class="portfolio__overlay">
+                <span class="portfolio__cardTitle">PopSwit</span>
+                <span class="tag tag--light">Landing Page</span>
+              </div>
+            </a>
             <a class="portfolio__card" href="https://genius.ng" target="_blank" rel="noopener noreferrer">
               <img class="portfolio__img" src="/projects/geniuswav.png" alt="GeniusWav - Talent Platform" />
               <div class="portfolio__overlay">
                 <span class="portfolio__cardTitle">GeniusWav</span>
-                <span class="tag tag--light">Web App</span>
-              </div>
-            </a>
-            <a class="portfolio__card" href="https://joscity.com" target="_blank" rel="noopener noreferrer">
-              <img class="portfolio__img" src="/projects/joscity.png" alt="JosCity - Events & Traditions" />
-              <div class="portfolio__overlay">
-                <span class="portfolio__cardTitle">JosCity</span>
                 <span class="tag tag--light">Web App</span>
               </div>
             </a>
